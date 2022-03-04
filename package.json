@@ -1,0 +1,8 @@
+{
+  "name": "react-bg-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Jcanno/react-bg-hooks.git",
+  "author": "Jacano",
+  "license": "MIT"
+}
